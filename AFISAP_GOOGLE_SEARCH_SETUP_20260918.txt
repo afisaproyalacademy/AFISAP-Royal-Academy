@@ -1,0 +1,8 @@
+AFISAP Royal Academy — Google Search setup
+
+Added: robots.txt and sitemap.xml.
+Added/standardized: public-page titles, meta descriptions, canonical URLs, index/follow robots directives, and basic Open Graph metadata.
+Marked utility/system gateway pages noindex,follow: apply/, portal/, parents/portal/, thank-you.html, academics/index.html.
+Updated old github.io gateway destinations to the already-configured custom subdomains admissions.afisaproyalacademy.com and portal.afisaproyalacademy.com.
+No visual redesign, CSS, JavaScript, assets, Management System code, Teacher Portal code, Parent Portal code, or Apps Script backend was changed.
+Code.gs deployment required: NO.
